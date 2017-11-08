@@ -16,9 +16,9 @@ Universidade Federal do Ceará - Campus de Quixadá
 #### [Parte 2 - Python Básico](02-python_basico.ipynb)
 
 #### Parte 3 - Bibliotecas Python para Manipulação de Dados
-- [Numpy](03.1-bibliotecas-manipulacao_de_dados-numpy.ipynb)
-- [Matplotlib](03.2-bibliotecas-manipulacao_de_dados-matplotlib.ipynb)
-- [Pandas](03.3-bibliotecas-manipulacao_de_dados-pandas.ipynb)
+- [Numpy](03.1-python_libs_data-numpy.ipynb)
+- [Matplotlib](03.2-python_libs_data-matplotlib.ipynb)
+- [Pandas](03.3-python_libs_data-pandas.ipynb)
 
 #### [Parte 4 - Análise de Dados e Aprendizado de Máquina](04-analise_de_dados_e_ML.ipynb)
 - Obtenção de Dados
@@ -27,5 +27,5 @@ Universidade Federal do Ceará - Campus de Quixadá
 - Visualização de Dados
 - Introdução ao Aprendizado de Máquina usando Python
 
-#### [Parte 6 - Conclusão](06-conclusoes.ipynb)
+#### [Parte 5 - Conclusão](05-conclusoes.ipynb)
 - Conclusões e Passos Futuros
