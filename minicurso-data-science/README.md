@@ -1,5 +1,5 @@
 
-# Workshop Ciência de Dados na Prática usando Python
+# Minicurso Ciência de Dados na Prática usando Python
 ## XII Semana Acadêmica da Computação
 Prof. Regis Pires Magalhães
 
@@ -20,13 +20,11 @@ Universidade Federal do Ceará - Campus de Quixadá
 - [Matplotlib](03.2-bibliotecas-manipulacao_de_dados-matplotlib.ipynb)
 - [Pandas](03.3-bibliotecas-manipulacao_de_dados-pandas.ipynb)
 
-#### [Parte 4 - Análise de Dados](04-analise_de_dados.ipynb)
+#### [Parte 4 - Análise de Dados e Aprendizado de Máquina](04-analise_de_dados_e_ML.ipynb)
 - Obtenção de Dados
 - Análise Exploratória de Dados
 - Manipulação e Limpeza de Dados
 - Visualização de Dados
-
-#### [Parte 5 - Aprendizado de Máquina](05-aprendizagem_maquina.ipynb)
 - Introdução ao Aprendizado de Máquina usando Python
 
 #### [Parte 6 - Conclusão](06-conclusoes.ipynb)
