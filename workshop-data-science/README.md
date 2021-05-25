@@ -5,6 +5,8 @@ Prof. Regis Pires Magalhães
 
 Universidade Federal do Ceará - Campus de Quixadá
 
+## Curso em vídeo em nosso Canal do YouTube
+https://www.youtube.com/playlist?list=PL3qBTZ_EXTNeHSfJYl_JNqKxBjfFLoBzw
 
 ## Parte 1 - Introdução
 
